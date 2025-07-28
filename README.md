@@ -1,36 +1,53 @@
-# Vanrakt
-This is an Indie game by me. inspired by the game "The Forest".
-Ayy Tezz bro 🔥🔥 this sounds like a dope indie version of *The Forest* — survival meets AI chaos vibes. Here's a clean, engaging **YouTube description** that’s catchy, optimized, and sounds like a devlog or gameplay showcase 👇
+# 🌲 Vanrakt: The story of a Live Forest
+
+A survival adventure game inspired by *The Forest* — featuring AI animals, procedurally generated terrain, and a dynamic open world built in Unity.
 
 ---
 
-## 🌲 "The Indian Forest" | Devlog #1 - Procedural Terrain, AI Enemies & Wildlife 🌌
+## 🎮 Game Overview
 
-Welcome to my survival game inspired by *The Forest* 🌳 — but with a twist!
-
-In this episode, I show off the early development of my open-world environment, featuring:
-
-🌍 **Procedural Terrain Generation** – Using Unity's terrain tools, I sculpted a massive forest with hills, valleys, and natural-looking slopes using brushes.
-
-🌿 **Nature Spawning** – Trees, bushes, and grass were painted procedurally with texture brushes to make the forest feel alive.
-
-🧠 **AI Wildlife & Enemies** – I implemented a full NavMesh system with AI agents. Animals peacefully **wander** around... until you get too close. Then, it’s attack mode 🔥
-
-👁️‍🗨️ **Immersive Skybox** – A dynamic skybox sets the tone for the day-night cycle and adds that realistic vibe.
-
-🎮 Whether you're into Unity game dev, AI programming, or survival games — this devlog is for YOU.
+> In this game, you explore a dense, dangerous forest filled with wildlife and AI enemies. As you wander through hills, valleys, and thick brush, the environment feels alive — and dangerous. Some animals roam peacefully... others attack when you get too close. Can you survive?
 
 ---
 
-👨‍💻 **Made with**:
-Unity, C#, NavMesh AI, Procedural Tools
+## 🧰 Features
 
-📌 Stay tuned for crafting, building, and survival mechanics in the next updates!
+- 🌍 **Procedural Terrain**
+  - Sculpted using Unity Terrain Tools
+  - Natural hills, crests, and valleys created with terrain brushes
 
-🔔 Like, Comment & Subscribe if you're hyped to see more of this survival world come to life!
+- 🌿 **Environmental Generation**
+  - Trees, bushes, and textures placed procedurally
+  - Painted using texture brushes for natural variety
 
-\#UnityDev #TheForestClone #GameDevelopment #IndieDev #OpenWorld #AIEnemies #ProceduralTerrain #SurvivalGame #Devlog
+- 🧠 **AI System**
+  - NavMesh + NavMesh Agents for navigation
+  - Animals and enemies wander and attack when approached
+  - Option to toggle between “Wander & Follow” and “Wander & Flee” behavior
+
+- 🌌 **Dynamic Skybox**
+  - Adds realism and immersion
+  - Ready for day-night cycle implementation
 
 ---
 
-Let me know if you want a **Hindi-English mix** version for desi audience or a **shorts-style hook** too!
+## 🛠️ Built With
+
+- [Unity Engine](https://unity.com/)
+- C# Scripting
+- Unity NavMesh System (for AI Navigation)
+- Animator Controller + CreatureMover for realistic movement
+
+---
+
+## 📸 Screenshots / Devlog Videos
+
+> Coming Soon – Stay tuned for gameplay clips and devlog uploads on my [YouTube channel](#)!
+
+---
+
+## 📁 Project Setup
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/forest-survival-game.git
